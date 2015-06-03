@@ -3,8 +3,6 @@
 #### Here the Textures came from:
 
 
-Thats textures what we created:
-
 * [Borderland's]()
    
     * Apple
