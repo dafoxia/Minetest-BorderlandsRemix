@@ -1,9 +1,11 @@
 ### The Themepack from the [LsW.io](https://linux-statt-windows.org) Minetest Server
 
+This is a Collection of mutch custom Textures from over six Minetest and Minecraft Texturepacks ... and our Work:
+
 #### Here the Textures came from:
 
 
-* [Borderland's]()
+* [Borderland's](http://resourcepack.net/bordercraft-resource-pack/)
    
     * Apple
     * Arrow
@@ -44,21 +46,21 @@
     * Stick
     * Stone
     * Stone Brick
-    * Tool Bronce Pick (modified Diamond Pick by [Kelso]())
+    * Tool Bronce Pick (modified Diamond Pick by [Kelso](https://linux-statt-windows.org/user/kelso))
     * Tree
     * TNT
     * Hoe(s) (not Diamond)
     * Farming Wheat
     * Whool
 
-* [HDx]()
+* [HDx](https://forum.minetest.net/viewtopic.php?pid=19702)
    
 	* Bubble
 	* Jungle Sampling  
 	* Elevator
 	* Travelnet
 
-* [TestBDCraft]()
+* [TestBDCraft](https://forum.minetest.net/viewtopic.php?id=5427)
 	
 	* Clay Lump
 	* Coal Lump
@@ -90,7 +92,11 @@
 	* Gold Shovel
 	* Gold Sword
 
-* Self made (by [Kelso]())
+* [Misa](http://resourcepack.net/misas-realistic-resource-pack/)
+	
+	* Bones (Grave)   
+	* Crosshair
+* Self made (by [Kelso](https://linux-statt-windows.org/user/kelso))
 
 	* Diamond Axe (based on Borderlands)
 	* Diamond Pick (based on Borderlands)
@@ -100,14 +106,21 @@
 	* Wood Acacia (based on Borderlands Wood)
 	* Craft Guide
 	* Glow Glasses
-	
-...all the Rest is mixed default and []
+
+* Self made (by [Milan](https://linux-statt-windows.org/user/milan))
+
+	* Mini Sun 
+	(i had broke the Transparence of Kelso's GlowGlass and put it accidentally as Mini Sun on the Server^^)
+	* Interface:  
+
+* Wieldhand is from old Minetest
+
+* [Carbone](https://forum.minetest.net/viewtopic.php?f=15&t=9033&start=100)
+	* Mostly all the Rest of our Texures
 
 
 	
-* [Misa]()
-	
-	* Bones (Grave)   
+
 
 
 ## This Readme isn't finish. But mostly ;)
