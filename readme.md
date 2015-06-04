@@ -117,7 +117,7 @@ This is a Collection of mutch custom Textures from over six Minetest and Minecra
 
 	* Mini Sun 
 	(i had broke the Transparence of Kelso's GlowGlass and put it accidentally as Mini Sun on the Server^^)
-	* Interface:  
+	* Interface: Selected Item
 
 * Wieldhand is from old Minetest
 
