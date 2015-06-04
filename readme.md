@@ -23,8 +23,8 @@ This is a Collection of mutch custom Textures from over six Minetest and Minecra
 	* Clay Brick
 	* Copper Block
 	* Diamond Block
-    * Desert Sand **(?)**
-    * Desert Stone **(?)**
+    * Desert Sand
+    * Desert Stone
     * Diamond
     * Dirt(s)
 	* Dry Shrub
