@@ -2,7 +2,7 @@
 
 This is a Collection of mutch custom Textures from over six Minetest and Minecraft Texturepacks ... and our Work:
 
-##### You want to see the Textures with Preview in a List? Klick [**here**](https://mtcloud.tchncs.de/index.php/s/fbSt82MrXkOJZQR)!
+##### You want to see the Textures with Preview in a List? Click [**here**](https://mtcloud.tchncs.de/index.php/s/fbSt82MrXkOJZQR)!
 
 #### Screenshots
 
@@ -11,7 +11,7 @@ This is a Collection of mutch custom Textures from over six Minetest and Minecra
 #### Here the Textures came from:
 
 
-* [Borderland's](http://resourcepack.net/bordercraft-resource-pack/)
+* [Borderlands](http://resourcepack.net/bordercraft-resource-pack/)
    
     * Apple
     * Arrow
@@ -101,7 +101,7 @@ This is a Collection of mutch custom Textures from over six Minetest and Minecra
 	
 	* Bones (Grave)   
 	* Crosshair
-* Self made (by [Kelso](https://linux-statt-windows.org/user/kelso))
+* Self made (by [Kelso](https://github.com/commanderkelso))
 
 	* Diamond Axe (based on Borderlands)
 	* Diamond Pick (based on Borderlands)
@@ -113,7 +113,7 @@ This is a Collection of mutch custom Textures from over six Minetest and Minecra
 	* Craft Guide
 	* Glow Glasses
 
-* Self made (by [Milan](https://linux-statt-windows.org/user/milan))
+* Self made (by [Milan](https://github.com/tchncs))
 
 	* Mini Sun 
 	(i had broke the Transparence of Kelso's GlowGlass and put it accidentally as Mini Sun on the Server^^)
