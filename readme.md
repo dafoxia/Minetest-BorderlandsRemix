@@ -4,9 +4,17 @@ This is a Collection of mutch custom Textures from over six Minetest and Minecra
 
 ##### You want to see the Textures with Preview in a List? Click [**here**](https://mtcloud.tchncs.de/index.php/s/fbSt82MrXkOJZQR)!
 
-#### Screenshots
+#### Screenshots:
 
 ![](https://linux-statt-windows.org/uploads/files/upload-41022f60-1986-44d4-b82d-a72638f627a0.jpg)
+
+#### How to install:
+
+1. Clone this Repository to your ~/.minetest/textures Folder. No Folder? Just create it.
+2. Copy the *Borderlands Remix* Folder into the 'textures' Folder.
+3. Delete the Minetest-BorderlandsRemix Folder.
+4. Activate the Texturepack at the Tab called *Texturepacks* in your Client.
+5. Enjoy ;-)
 
 #### Here the Textures came from:
 
