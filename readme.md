@@ -46,7 +46,6 @@ This is a Collection of mutch custom Textures from over six Minetest and Minecra
     * Stick
     * Stone
     * Stone Brick
-    * Tool Bronce Pick (modified Diamond Pick by [Kelso](https://linux-statt-windows.org/user/kelso))
     * Tree
     * TNT
     * Hoe(s) (not Diamond)
@@ -104,6 +103,7 @@ This is a Collection of mutch custom Textures from over six Minetest and Minecra
 	* Diamond Sword (based on Borderlands)
 	* Diamond Hoe (based on Borderlands)
 	* Wood Acacia (based on Borderlands Wood)
+	* Bronce Pick (based on Borderlands)
 	* Craft Guide
 	* Glow Glasses
 
