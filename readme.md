@@ -1,6 +1,6 @@
 ### The Themepack from the [LsW.io](https://linux-statt-windows.org) Minetest Server
 
-This is a Collection of mutch custom Textures from over six Minetest and Minecraft Texturepacks ... and our Work:
+This is a Fusion of several custom Minetest and Minecraft Texturepacks ... and our Work:
 
 ##### You want to see the Textures with Preview in a List? Click [**here**](https://mtcloud.tchncs.de/index.php/s/fbSt82MrXkOJZQR)!
 
