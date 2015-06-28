@@ -134,7 +134,7 @@ This is a Fusion of several custom Minetest and Minecraft Texturepacks ... and o
 
 * Self made (by [Coeseta]())
 
-    * Moon (based on John Smith 2.4)
+    * Moon
     * Sun
     * xpanes_bar
     * Furnance Animation
