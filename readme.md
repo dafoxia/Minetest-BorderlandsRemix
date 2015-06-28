@@ -109,6 +109,17 @@ This is a Fusion of several custom Minetest and Minecraft Texturepacks ... and o
 	
 	* Bones (Grave)   
 	* Crosshair
+
+* Wieldhand is from old Minetest
+
+* [Carbone](https://forum.minetest.net/viewtopic.php?f=15&t=9033&start=100)
+	* Mostly all the Rest of our Texures
+
+* [John Smith 2.4](http://thatraspberrypiserver.raspberryip.com/Infinatum_Minetest/texture_packs.html)
+
+    * Torch
+    * Water
+
 * Self made (by [Kelso](https://github.com/commanderkelso))
 
 	* Diamond Axe (based on Borderlands)
@@ -121,16 +132,24 @@ This is a Fusion of several custom Minetest and Minecraft Texturepacks ... and o
 	* Craft Guide
 	* Glow Glasses
 
+* Self made (by [Coeseta]())
+
+    * Moon (based on John Smith 2.4)
+    * Sun
+    * xpanes_bar
+    * Furnance Animation
+    * Hotplate on Furnance
+    * (default) Signs
+
 * Self made (by [Milan](https://github.com/tchncs))
 
 	* Mini Sun 
 	(i had broke the Transparence of Kelso's GlowGlass and put it accidentally as Mini Sun on the Server^^)
 	* Interface: Selected Item
 
-* Wieldhand is from old Minetest
 
-* [Carbone](https://forum.minetest.net/viewtopic.php?f=15&t=9033&start=100)
-	* Mostly all the Rest of our Texures
+
+
 
 
 	
