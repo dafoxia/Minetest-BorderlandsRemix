@@ -67,7 +67,8 @@ This is a Fusion of several custom Minetest and Minecraft Texturepacks ... and o
     * Stone with: Coal, Iron, Copper, Mese, Gold
     * Whool
 
-##### Note to Stone with *: extracted Minerals and give it transparend Background - some got little different Colours)
+###### Note to Stone with *: extracted Minerals and give it transparend Background - some got little 
+different Colours)
 
 * [HDx](https://forum.minetest.net/viewtopic.php?pid=19702)
    
