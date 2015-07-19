@@ -58,12 +58,20 @@ This is a Fusion of several custom Minetest and Minecraft Texturepacks ... and o
     * Sign
     * Snow
     * Stick
-    * Stone
+    * Stone (based on)
     * Stone Brick
     * Tree
     * TNT
     * Hoe(s) (not Diamond)
     * Farming Wheat
+    * Stone with:
+      	* Coal,
+      	* Iron, 
+      	* Copper,
+	* Mese,
+	* Gold
+	(extracted Minerals and give it transparend Background - some got little 
+different Colours) 
     * Whool
 
 * [HDx](https://forum.minetest.net/viewtopic.php?pid=19702)
