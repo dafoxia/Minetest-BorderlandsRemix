@@ -64,7 +64,7 @@ This is a Fusion of several custom Minetest and Minecraft Texturepacks ... and o
     * TNT
     * Hoe(s) (not Diamond)
     * Farming Wheat
-    * Stone with: Coal, Iron, Copper, Mese, Gold
+    * Stone with: Coal, Iron, Copper, Mese, Gold, Diamond
     * Whool
 
 ###### Note to Stone with *: extracted Minerals and give it transparend Background - some got little different Colours)
