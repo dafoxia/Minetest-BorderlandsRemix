@@ -70,7 +70,7 @@ This is a Fusion of several custom Minetest and Minecraft Texturepacks ... and o
       	* Copper,
 	* Mese,
 	* Gold
-	(extracted Minerals and give it transparend Background - some got little 
+(extracted Minerals and give it transparend Background - some got little 
 different Colours) 
     * Whool
 
